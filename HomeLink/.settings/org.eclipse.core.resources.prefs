@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//HomeLink/items.py=utf-8
+encoding//HomeLink/pipelines.py=utf-8
+encoding//HomeLink/settings.py=utf-8
+encoding//HomeLink/spiders/houseinfo.py=utf-8
+encoding//HomeLink/spiders/recent_deal.py=utf-8
+encoding//HomeLink/spiders/xiaoqu_deal.py=utf-8
+encoding//HomeLink/spiders/xiaoqu_deal_num.py=utf-8
+encoding/<project>=UTF-8
